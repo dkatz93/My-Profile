@@ -14,7 +14,8 @@ h1 {
 }
 .top {
 	background-image: url("http://www.wallpapereast.com/static/images/Cool-Wallpaper-14D0.jpg");
-	height: 600px;
+	height: 100px;
+	background-position: -50px;
 }
 body{
 	background-color: black;
@@ -43,9 +44,6 @@ a{
 }
 a:hover{
 	color:blue;
-}
-h2{
-	padding-top: 300px;
 }
 p{
 	font-size: 20px;
